@@ -43,6 +43,8 @@ You can also update the key name to whatever you want your state file to be name
 * [Pipeline Plugin](https://wiki.jenkins.io/display/JENKINS/Pipeline+Plugin)
 * [CloudBees AWS Credentials Plugin](https://wiki.jenkins.io/display/JENKINS/CloudBees+AWS+Credentials+Plugin)
 
+Search modules from the registry - https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group
+
 ## Questions?
 
 Open an issue.
